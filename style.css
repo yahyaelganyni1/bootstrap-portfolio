@@ -1,12 +1,35 @@
-h1 {
-  color: #172b4d;
+* {
+  font-family: "Inter", sans-serif !important;
 }
 
-.text-center {
+.header {
+  height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: #172b4d;
+  font-weight: 800;
+}
+
+p {
+  line-height: 30px !important;
+}
+
+.header-text {
   margin-top: 200px;
 }
 
 .nav-bag {
   background-image: url(image/header_bg.svg);
-  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.links {
+  padding-left: 1em;
 }
