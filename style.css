@@ -1,0 +1,12 @@
+h1 {
+  color: #172b4d;
+}
+
+.text-center {
+  margin-top: 200px;
+}
+
+.nav-bag {
+  background-image: url(image/header_bg.svg);
+  height: 100vh;
+}
