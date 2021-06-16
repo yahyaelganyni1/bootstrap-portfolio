@@ -1,0 +1,47 @@
+* {
+  font-family: "Inter", sans-serif !important;
+}
+
+.header {
+  height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: #172b4d;
+  font-weight: 800;
+}
+
+p {
+  line-height: 30px !important;
+}
+
+.header-text {
+  margin-top: 200px;
+}
+
+.nav-bag {
+  background-image: url(image/header_bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.links {
+  padding-left: 1em;
+}
+
+.tech-bg {
+  background-color: #ebf0ee !important;
+}
+
+.about-me {
+  margin-top: 10em;
+}
+
+.card-color {
+  background-color: #ebf0ee !important;
+}
