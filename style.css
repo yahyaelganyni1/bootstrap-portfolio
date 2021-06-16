@@ -34,6 +34,14 @@ p {
   padding-left: 1em;
 }
 
+.tech-bg {
+  background-color: #ebf0ee !important;
+}
+
 .about-me {
   margin-top: 10em;
+}
+
+.card-color {
+  background-color: #ebf0ee !important;
 }
